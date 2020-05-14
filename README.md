@@ -4,4 +4,10 @@
 
 > ⭐️이 저장소는 PR 과 star 를 먹고 자랍니다.⭐️
 
-[리그오브 디벨로퍼(개발을 게임 리그오브레전드에 비유)](https://taeny.dev/essay/%EB%A6%AC%EA%B7%B8-%EC%98%A4%EB%B8%8C-%EB%94%94%EB%B2%A8%EB%A1%9C%ED%8D%BC/)
+## 클린코드
+
+- [타입스크립트 클린코드](https://github.com/738/clean-code-typescript#%EB%AA%A9%EC%B0%A8)
+
+## 협업
+
+- [리그오브 디벨로퍼(개발을 게임 리그오브레전드에 비유)](https://taeny.dev/essay/%EB%A6%AC%EA%B7%B8-%EC%98%A4%EB%B8%8C-%EB%94%94%EB%B2%A8%EB%A1%9C%ED%8D%BC/)
