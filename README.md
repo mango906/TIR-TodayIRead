@@ -15,3 +15,5 @@
 ## 기타
 
 - [깃헙- Pull Request 템플릿 만들기](https://fernando.kr/develop/2019-05-29-github-pull-request-template-guide/)
+
+- [기획자는 필요없다](https://minieetea.com/2020/05/archives/5993)
