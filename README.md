@@ -21,3 +21,7 @@
 - [깃헙- Pull Request 템플릿 만들기](https://fernando.kr/develop/2019-05-29-github-pull-request-template-guide/)
 
 - [기획자는 필요없다](https://minieetea.com/2020/05/archives/5993)
+
+- [프로덕트를 만드는 모든 사람들을 위한 개발 지식](https://www.notion.so/74c1bc468ec2420e959743a21c64c668)
+
+  
