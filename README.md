@@ -4,6 +4,10 @@
 
 > ⭐️이 저장소는 PR 과 star 를 먹고 자랍니다.⭐️
 
+## Javascript
+
+* [Javascript 이벤트 loop](https://asfirstalways.tistory.com/362)
+
 ## 클린코드
 
 - [타입스크립트 클린코드](https://github.com/738/clean-code-typescript#%EB%AA%A9%EC%B0%A8)
