@@ -11,6 +11,7 @@
 ## 클린코드
 
 - [타입스크립트 클린코드](https://github.com/738/clean-code-typescript#%EB%AA%A9%EC%B0%A8)
+- [코드 가독성에 대해](https://engineering.linecorp.com/ko/blog/code-readability-5/?fbclid=IwAR25Q41JDlXYGXwXx0x0APbJF3zpNbo-N0YxZF3x1y_A-2T12sghoziAhaE)
 
 ## 협업
 
